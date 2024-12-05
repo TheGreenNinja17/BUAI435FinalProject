@@ -1,5 +1,6 @@
 import streamlit as st
 from openai import OpenAI
+info = 
 client = OpenAI(api_key='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')
 
 # Initialize session state for chat history
