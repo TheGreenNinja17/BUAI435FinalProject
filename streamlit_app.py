@@ -1,7 +1,7 @@
 import streamlit as st
 from openai import OpenAI
-info = 
-client = OpenAI(api_key='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')
+info = "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"
+client = OpenAI(api_key=info)
 
 # Initialize session state for chat history
 if "messages" not in st.session_state:
