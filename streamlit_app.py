@@ -30,7 +30,7 @@ if st.button("Send"):
     if user_input.strip():
         with st.spinner("Thinking..."):
             bot_response = chat_with_gpt(user_input)
-        st.write(f"**ChatGPT**: {bot_response}")
+        st.write(f"**AI Assistant**: {bot_response}")
     else:
         st.warning("Please type something to chat!")
 
