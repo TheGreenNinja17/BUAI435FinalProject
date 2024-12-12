@@ -1,2 +1,5 @@
 streamlit
 openai
+joblib
+gensim.models
+sklearn.metrics.pairwise
