@@ -1,2 +1,7 @@
 streamlit
 openai
+pickle
+joblib
+gensim.models
+pandas
+os
