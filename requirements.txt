@@ -1,5 +1,7 @@
 streamlit
 openai
+pickle
 joblib
 gensim.models
-sklearn.metrics.pairwise
+pandas
+os
