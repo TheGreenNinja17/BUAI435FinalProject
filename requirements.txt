@@ -2,6 +2,10 @@ streamlit
 openai
 pickle
 joblib
-gensim.models
+gensim
 pandas
 os
+scikit-learn
+numpy
+scipy
+gensim
